@@ -1,8 +1,8 @@
-21:56:11 **** Incremental Build of configuration Debug for project cpu0_app ****
+08:45:31 **** Incremental Build of configuration Debug for project cpu0_app ****
 make pre-build main-build 
 a9-linaro-pre-build-step
  
 make: Nothing to be done for 'main-build'.
 
-21:56:11 Build Finished (took 167ms)
+08:45:32 Build Finished (took 118ms)
 

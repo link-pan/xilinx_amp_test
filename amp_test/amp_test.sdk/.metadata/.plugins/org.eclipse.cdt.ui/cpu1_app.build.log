@@ -1,4 +1,4 @@
-21:51:06 **** Auto Build of configuration Debug for project cpu1_app ****
+07:25:39 **** Build of configuration Debug for project cpu1_app ****
 make pre-build main-build 
 a9-linaro-pre-build-step
  
@@ -24,5 +24,5 @@ arm-none-eabi-size cpu1_app.elf  |tee "cpu1_app.elf.size"
 Finished building: cpu1_app.elf.size
  
 
-21:51:07 Build Finished (took 262ms)
+07:25:39 Build Finished (took 266ms)
 
